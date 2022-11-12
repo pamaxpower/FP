@@ -1,0 +1,15 @@
+C:\Users\LordIK\Desktop\Final_project\bin\Debug\net6.0\Final_project.exe
+C:\Users\LordIK\Desktop\Final_project\bin\Debug\net6.0\Final_project.deps.json
+C:\Users\LordIK\Desktop\Final_project\bin\Debug\net6.0\Final_project.runtimeconfig.json
+C:\Users\LordIK\Desktop\Final_project\bin\Debug\net6.0\Final_project.dll
+C:\Users\LordIK\Desktop\Final_project\bin\Debug\net6.0\Final_project.pdb
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.AssemblyInfo.cs
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.dll
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\refint\Final_project.dll
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.pdb
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\Final_project.genruntimeconfig.cache
+C:\Users\LordIK\Desktop\Final_project\obj\Debug\net6.0\ref\Final_project.dll
